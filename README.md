@@ -4,7 +4,7 @@
 
 ### Interested in
 - **JAVA**
-- **Python**
+- **Android**
 - **Databases**
 - **Security Solutions**
 
