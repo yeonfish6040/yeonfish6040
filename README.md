@@ -1,6 +1,5 @@
 # yeonfish6040
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonfish6040&layout=compact&theme=dracula) | 
-![yeonfish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonfish6040&show_icons=true&theme=dracula) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonfish6040&layout=compact&theme=dracula) | ![yeonfish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonfish6040&show_icons=true&theme=dracula) |
 | ------------- | ------------- |
 
 ### Interested in
