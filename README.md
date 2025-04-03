@@ -3,14 +3,13 @@
 | ------------- | ------------- |
 
 ### Interested in
-- **JAVA**
-- **Android**
-- **Databases**
+- **SA Jobs**
+- **SWA Jobs**
 - **Security Solutions**
 
 
 
 <hr>
 
-### About me
 ![Email](https://img.shields.io/badge/Email-yeonfish6040@gmail.com-green)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
