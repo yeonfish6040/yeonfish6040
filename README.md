@@ -12,4 +12,4 @@
 <hr>
 
 ![Email](https://img.shields.io/badge/Email-yeonfish6040@gmail.com-green)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonfish6040)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/9c9340fb-a4ba-4e29-9e96-3f037695c682.svg)](https://wakatime.com/@9c9340fb-a4ba-4e29-9e96-3f037695c682)
